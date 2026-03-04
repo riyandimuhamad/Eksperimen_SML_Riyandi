@@ -1,0 +1,7 @@
+Berikut adalah tautan DagsHub untuk proyek ini:
+
+1. Tautan Repositori DagsHub:
+https://dagshub.com/riyandimuhamad/Eksperimen_SML_Riyandi
+
+2. Tautan MLflow Tracking:
+https://dagshub.com/riyandimuhamad/Eksperimen_SML_Riyandi.mlflow

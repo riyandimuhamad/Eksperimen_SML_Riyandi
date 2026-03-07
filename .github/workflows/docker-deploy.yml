@@ -25,8 +25,7 @@ jobs:
 
       - name: Run Preprocessing Script
         run: |
-          # Pastikan path ini benar sesuai lokasi file automate_Riyandi.py Mas
-          python preprocessing/automate_Riyandi.py
+          python MLProject/modelling.py
 
       - name: Run MLflow Training
         run: |

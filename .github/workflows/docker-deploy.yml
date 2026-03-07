@@ -24,8 +24,9 @@ jobs:
           pip install pandas numpy scikit-learn mlflow joblib
 
       - name: Run Preprocessing Script
+        working-directory: ./MLProject
         run: |
-          python MLProject/modelling.py
+          python modelling.py
 
       - name: Run MLflow Training
         run: |
